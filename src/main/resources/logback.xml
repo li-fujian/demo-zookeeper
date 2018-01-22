@@ -27,7 +27,7 @@
     <root level="debug">
         <appender-ref ref="stdoutAppender" />
         <!-- dev env debug-->
-        <!-- <appender-ref ref="STDOUT" /> -->
+        <appender-ref ref="STDOUT" />
     </root>
 
 </configuration>
